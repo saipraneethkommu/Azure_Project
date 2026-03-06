@@ -1,0 +1,17 @@
+{
+	"name": "SchemaGold",
+	"properties": {
+		"content": {
+			"query": "CREATE SCHEMA GOLD;",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"databaseName": "praneethdatabase",
+				"poolName": "Built-in"
+			},
+			"resultLimit": 5000
+		},
+		"type": "SqlQuery"
+	}
+}
