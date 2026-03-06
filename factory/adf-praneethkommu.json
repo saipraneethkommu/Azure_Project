@@ -1,0 +1,9 @@
+{
+	"name": "adf-praneethkommu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "980b7f53-28fc-486a-a39b-c1955afec4ea",
+		"tenantId": "54222be3-9019-4496-9258-969dd38aeea9"
+	}
+}
